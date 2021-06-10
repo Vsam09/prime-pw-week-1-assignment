@@ -1,21 +1,31 @@
 # Type your responses on a new line
 
-# 1 - What is the command for listing the files in the current folder (directory)?
+# 1 - What is the command for listing the files in the current folder (directory)? 
+A: Ls
 
-# 2 - What is the command for changing directories?
+# 2 - What is the command for changing directories? 
+A: Cd
 
-# 3 - What is the command for going "up" a folder (to a parent directory)?
+# 3 - What is the command for going "up" a folder (to a parent directory)? 
+A: Pwd
 
-# 4 - What is a quick way to create a new folder?
+# 4 - What is a quick way to create a new folder? 
+A: Mkdir brand-new
 
-# 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
+# 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files? 
+A: In a empty folder, nothing will appear if its empty. If the folder contains a file, it will list it upon entering 'ls'
 
-# 6 - What is a quick way to create a new file?
+# 6 - What is a quick way to create a new file? 
+A: touch new-file.txt
 
-# 7 - Run 'git --version' in your terminal. What is the output?
+# 7 - Run 'git --version' in your terminal. What is the output? 
+A: 2.30.1 (Apple Git-130)
 
-# 8 - Why would you run the command 'git status'?
+# 8 - Why would you run the command 'git status'? 
+A: To see the status of untracked/modified files that needs to be committed
 
-# 9 - What does the command 'git add .' do?
+# 9 - What does the command 'git add .' do? 
+A: Saves a version of the folder with all its files
 
-# 10 - What is the command to push your committed changes to your repo on GitHub?
+# 10 - What is the command to push your committed changes to your repo on GitHub? 
+A: Git push -u origin master
