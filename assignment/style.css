@@ -17,13 +17,13 @@ img{
 }
 h2{
   font-size: 18px;
-  padding-top: 8px;
+  padding-left: 24px;
 }
-br{
-  font-size: 20px;
+li{
+  font-size: 16px;
   font-family: Arial, Helvetica, sans-serif;
 }
-h6{
+footer{
   background-color: darkgray;
   font-size: 16px;
 }
